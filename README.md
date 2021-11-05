@@ -5,4 +5,4 @@ https://github.com/alexlomu/Primer-juego
 Hemos resuelto un juego de adivinar con valores enteros entre 0 y 99.
 El diagrama de flujo que tenemos en nuestro código es el siguiente:
 
-[diagrama de flujo primer juego](/alexlomu/Primer-juego/primer_juego_figma)
+[diagrama de flujo primer juego](/alexlomu/Primer-juego/primer_juego_figma.MHT)

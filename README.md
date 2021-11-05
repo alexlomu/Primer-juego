@@ -28,4 +28,4 @@ while numero_jugador != numero:
 if numero_jugador == numero:
     jugadas += 1
     print("Felicidades has ganado, el número era", str(numero))
-    print("En total has hecho:", str(jugadas), "intentos.")```
+    print("En total has hecho:", str(jugadas), "intentos.")

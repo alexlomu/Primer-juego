@@ -9,7 +9,7 @@ El diagrama de flujo que tenemos en nuestro código es el siguiente:
 
 El código del juego es el siguiente:
 
-'''import random
+```import random
 numero = random.randint(0,100)
 numero_jugador = int(input("Introduce un número del 0 al 99: "))
 jugadas = 0
@@ -28,4 +28,4 @@ while numero_jugador != numero:
 if numero_jugador == numero:
     jugadas += 1
     print("Felicidades has ganado, el número era", str(numero))
-    print("En total has hecho:", str(jugadas), "intentos.")
+    print("En total has hecho:", str(jugadas), "intentos.")```
